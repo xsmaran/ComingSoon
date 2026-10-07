@@ -73,6 +73,23 @@
 }
 .legal__card a:hover { color: var(--brown-dark); text-decoration-color: var(--brown); }
 
+/* Contact: email button */
+.legal__cta { margin: 22px 0 0 !important; }
+.legal__card a.legal__cta-btn {
+  display: inline-block;
+  padding: 14px 28px;
+  border-radius: 15px;
+  background: var(--brown);
+  color: #f7efe6;
+  font-size: clamp(1rem, 3.6vw, 1.25rem);
+  font-weight: 600;
+  text-decoration: none;
+  overflow-wrap: anywhere;
+  transition: background-color 0.2s ease, transform 0.12s ease;
+}
+.legal__card a.legal__cta-btn:hover { background: var(--brown-dark); color: #f7efe6; }
+.legal__card a.legal__cta-btn:active { transform: translateY(1px); }
+
 /* Refund table */
 .legal__table-wrap {
   margin: 0 0 18px;
