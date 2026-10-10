@@ -1,0 +1,5 @@
+(globalThis["TURBOPACK_CHUNK_LISTS"] || (globalThis["TURBOPACK_CHUNK_LISTS"] = [])).push({
+    script: typeof document === "object" ? document.currentScript : undefined,
+    chunks: ["static/chunks/node_modules_next_dist_20wefz_f1k6jn._.js","static/chunks/src_app_0h5v3596543i6._.css","static/chunks/node_modules_16lutvw7t31qw._.js","static/chunks/src_0og697-u0xy0w._.js","static/chunks/_1pbwfkr4s34kh._.js","static/chunks/_0ew9-gfrimlby._.js","static/chunks/node_modules_three_build_three_core_18d0oq6so9l-t.js","static/chunks/node_modules_three_build_three_module_03rsyo66totzs.js","static/chunks/node_modules_three_build_three_module_1_wgwg8fdd16a.js","static/chunks/node_modules_three_examples_jsm_controls_OrbitControls_1im17_piystfy.js","static/chunks/node_modules_three_examples_jsm_environments_RoomEnvironment_0-9q52u6lebh7.js","static/chunks/node_modules_three_examples_jsm_geometries_RoundedBoxGeometry_0gvvsrme-_uhf.js","static/chunks/src_lib_three_nookaa-scene_ts_1-334haq9msp0._.js"],
+    source: "entry"
+});

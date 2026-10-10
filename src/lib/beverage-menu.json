@@ -1,0 +1,338 @@
+{
+  "categories": [
+    {
+      "id": "hot-coffee",
+      "name": "Hot Coffee",
+      "items": [
+        {
+          "name": "Espresso",
+          "price": 71
+        },
+        {
+          "name": "Doppio",
+          "price": 89
+        },
+        {
+          "name": "Americano",
+          "price": 99
+        },
+        {
+          "name": "Cappuccino",
+          "price": 119
+        },
+        {
+          "name": "Flat White",
+          "price": 119
+        },
+        {
+          "name": "Latte",
+          "price": 119
+        },
+        {
+          "name": "Vanilla Latte",
+          "price": 139
+        },
+        {
+          "name": "Hazelnut Latte",
+          "price": 139
+        },
+        {
+          "name": "Signature Hot Chocolate",
+          "price": 139
+        },
+        {
+          "name": "Mocha",
+          "price": 149
+        }
+      ]
+    },
+    {
+      "id": "cold-brew",
+      "name": "Cold Brew",
+      "items": [
+        {
+          "name": "Classic Cold Brew",
+          "price": 139
+        },
+        {
+          "name": "Orange Cold Brew",
+          "price": 169
+        },
+        {
+          "name": "Cranberry Cold Brew",
+          "price": 169
+        },
+        {
+          "name": "Sweet Cream Cold Brew",
+          "price": 169
+        },
+        {
+          "name": "Tonic Water Cold Brew",
+          "price": 169
+        },
+        {
+          "name": "Ginger Ale Cold Brew",
+          "price": 169
+        },
+        {
+          "name": "Brown Sugar Cinnamon",
+          "price": 169
+        }
+      ]
+    },
+    {
+      "id": "iced-coffee",
+      "name": "Iced Coffee",
+      "items": [
+        {
+          "name": "Iced Americano",
+          "price": 119
+        },
+        {
+          "name": "Iced Shaken Espresso",
+          "price": 149
+        },
+        {
+          "name": "Iced Latte",
+          "price": 149
+        },
+        {
+          "name": "Iced Hazelnut Latte",
+          "price": 169
+        },
+        {
+          "name": "Iced Caramel Latte",
+          "price": 169
+        },
+        {
+          "name": "Iced Vanilla Latte",
+          "price": 169
+        },
+        {
+          "name": "Iced Mocha",
+          "price": 179
+        },
+        {
+          "name": "Vietnamese Coffee",
+          "price": 179
+        }
+      ]
+    },
+    {
+      "id": "iced-tea",
+      "name": "Iced Tea",
+      "items": [
+        {
+          "name": "Lemon Iced Tea",
+          "price": 99
+        },
+        {
+          "name": "Peach Lemon Iced Tea",
+          "price": 99
+        },
+        {
+          "name": "Grapefruit Lemon Iced Tea",
+          "price": 99
+        },
+        {
+          "name": "Hibiscus Iced Tea",
+          "price": 99
+        }
+      ]
+    },
+    {
+      "id": "milk-tea",
+      "name": "Milk Tea",
+      "items": [
+        {
+          "name": "Thai Milk Tea",
+          "price": 149
+        },
+        {
+          "name": "Hong Kong Milk Tea",
+          "price": 149
+        },
+        {
+          "name": "Honey Milk Tea",
+          "price": 149
+        },
+        {
+          "name": "Brown Sugar Milk Tea",
+          "price": 149
+        }
+      ]
+    },
+    {
+      "id": "coolers",
+      "name": "Coolers",
+      "items": [
+        {
+          "name": "Jamun Kala Khatta",
+          "price": 99
+        },
+        {
+          "name": "Pink Grapefruit",
+          "price": 99
+        },
+        {
+          "name": "Lychee Lemon",
+          "price": 99
+        },
+        {
+          "name": "Mango Passion",
+          "price": 99
+        },
+        {
+          "name": "Summer Berries",
+          "price": 99
+        },
+        {
+          "name": "Cranberry Cooler",
+          "price": 99
+        }
+      ]
+    },
+    {
+      "id": "matcha",
+      "name": "Matcha",
+      "items": [
+        {
+          "name": "Hot Matcha Latte",
+          "price": 149
+        },
+        {
+          "name": "Iced Matcha (No Sugar)",
+          "price": 149
+        },
+        {
+          "name": "Iced Vanilla Matcha",
+          "price": 189
+        },
+        {
+          "name": "Summer Berries Matcha",
+          "price": 189
+        },
+        {
+          "name": "Iced Strawberry Matcha",
+          "price": 189
+        }
+      ]
+    },
+    {
+      "id": "ube",
+      "name": "Ube",
+      "items": [
+        {
+          "name": "Ube Cold Brew",
+          "price": 169
+        },
+        {
+          "name": "Iced Ube Latte",
+          "price": 189
+        },
+        {
+          "name": "Ube Matcha Latte",
+          "price": 189
+        }
+      ]
+    },
+    {
+      "id": "cloud-series",
+      "name": "Cloud Series",
+      "items": [
+        {
+          "name": "Coconut Water Coffee Cloud",
+          "price": 179
+        },
+        {
+          "name": "Coconut Water Matcha Cloud",
+          "price": 179
+        },
+        {
+          "name": "Coconut Water Ube Cloud",
+          "price": 179
+        }
+      ]
+    },
+    {
+      "id": "blended",
+      "name": "Blended",
+      "items": [
+        {
+          "name": "Classic Cold Coffee",
+          "price": 129
+        },
+        {
+          "name": "Brown Butter Cold Coffee",
+          "price": 179
+        },
+        {
+          "name": "Strawberry Frappe",
+          "price": 179
+        },
+        {
+          "name": "Caramel Frappe",
+          "price": 179
+        },
+        {
+          "name": "Choco Chips Frappe",
+          "price": 199
+        },
+        {
+          "name": "Mocha Frappe",
+          "price": 199
+        },
+        {
+          "name": "Matcha Frappe",
+          "price": 199
+        }
+      ]
+    }
+  ],
+  "addOns": [
+    {
+      "name": "Honey",
+      "price": 10
+    },
+    {
+      "name": "Oat Milk",
+      "price": 30
+    },
+    {
+      "name": "Almond Milk",
+      "price": 30
+    },
+    {
+      "name": "Choco Chips",
+      "price": 30
+    },
+    {
+      "name": "Cold Foam",
+      "price": 30
+    },
+    {
+      "name": "Cheese Foam",
+      "price": 50
+    },
+    {
+      "name": "Espresso Shot",
+      "price": 40
+    },
+    {
+      "name": "Sauce (Chocolate/Caramel)",
+      "price": 40
+    },
+    {
+      "name": "Flavour",
+      "price": 40,
+      "options": "Vanilla / Hazelnut / Chocolate / Caramel / Cinnamon / Strawberry Crush"
+    }
+  ],
+  "notes": {
+    "hotCupMl": 250,
+    "coldCupMl": 475,
+    "currency": "INR",
+    "taxesExtra": true,
+    "vegetarian": true
+  }
+}

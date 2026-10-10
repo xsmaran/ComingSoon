@@ -1,0 +1,42 @@
+{
+  "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_app": {
+    "id": 1966,
+    "files": [
+      "static/chunks/966.1775eb621d8d3e09.js"
+    ]
+  },
+  "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
+    "id": 3899,
+    "files": [
+      "static/chunks/899.5ce6b3cbad015b59.js"
+    ]
+  },
+  "components\\sections\\storefront.tsx -> @/lib/three/nookaa-scene": {
+    "id": 9823,
+    "files": [
+      "static/chunks/bd904a5c.2b46fda008bfc7e0.js",
+      "static/chunks/823.a404d0a5707ce800.js"
+    ]
+  },
+  "components\\sections\\storefront.tsx -> three": {
+    "id": 9625,
+    "files": [
+      "static/chunks/bd904a5c.2b46fda008bfc7e0.js",
+      "static/chunks/b536a0f1.8b5c649a3f5349db.js"
+    ]
+  },
+  "components\\sections\\storefront.tsx -> three/addons/controls/OrbitControls.js": {
+    "id": 1153,
+    "files": [
+      "static/chunks/bd904a5c.2b46fda008bfc7e0.js",
+      "static/chunks/534.d44d3188932f60b2.js"
+    ]
+  },
+  "components\\sections\\storefront.tsx -> three/addons/environments/RoomEnvironment.js": {
+    "id": 6967,
+    "files": [
+      "static/chunks/bd904a5c.2b46fda008bfc7e0.js",
+      "static/chunks/348.eb6ebb157de0b7ab.js"
+    ]
+  }
+}

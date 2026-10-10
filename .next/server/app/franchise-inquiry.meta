@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/[enquiry]/layout,_N_T_/[enquiry]/page,_N_T_/franchise-inquiry"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/_index",
+    "/$d$enquiry/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 0,
+    "slots": {
+      "children": {
+        "hints": 64,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/cca98ec15a1a0968493c371e99f565f146781e7d7b9b1988c99f41f430f08254/$/franchise-inquiry",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/[enquiry]/page"
+    },
+    "isFallback": false
+  }
+}

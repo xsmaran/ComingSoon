@@ -1,0 +1,31 @@
+2:"$Sreact.fragment"
+3:I[7121,[],""]
+4:I[4581,[],""]
+9:"static/chunks/500-fc3b64d9ff4a32a7.js"
+a:"static/chunks/925-602c25953fd95810.js"
+b:"static/chunks/437-df77b441101c1a02.js"
+c:"static/chunks/978-3639d70e63dd58e5.js"
+d:"static/chunks/app/page-eee43334d9b15c54.js"
+e:I[8437,["500","$9","925","$a","437","$b","978","$c","974","$d"],"Image"]
+f:I[8500,["500","$9","925","$a","437","$b","978","$c","974","$d"],""]
+10:I[484,[],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[484,[],"$14"]
+16:"MetadataBoundary"
+17:I[484,[],"$16"]
+18:I[6869,[],"IconMark"]
+6:X
+6:C
+7:X
+8:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","main",null,{"className":"relative flex w-full grow flex-col items-center justify-center gap-6 overflow-clip bg-cream px-5 pt-[150px] pb-[80px] text-center lg:pt-[200px] lg:pb-[120px]","children":[["$","div",null,{"className":"relative h-[158px] w-[130px]","children":["$","$Le",null,{"src":"/brand/doodles/empty.png","width":1254,"height":1254,"alt":"","sizes":"200px","preload":false,"className":"otter block h-full w-full object-contain size-full"}]}],["$","p",null,{"className":"font-autour text-[90px]/[100px] text-brown lg:text-[120px]/[130px]","children":"404"}],["$","h1",null,{"className":"font-autour text-[30px]/[42px] text-brown lg:text-[42px]/[58.8px]","children":"This cup is empty"}],["$","p",null,{"className":"max-w-[460px] font-chiron text-[18px]/[25.2px] text-brown md:text-[20px]/[26px]","children":"The page you’re looking for has been sipped, moved or never brewed. Let’s get you back to the good stuff."}],["$","div",null,{"className":"flex flex-wrap items-center justify-center gap-4 pt-2","children":[["$","$Lf",null,{"href":"/","className":"inset-border relative inline-flex w-min items-center justify-center gap-2.5 rounded-[100px] bg-orange font-chiron font-bold whitespace-pre text-brown shadow-press [--border-color:var(--color-brown)] [--border-width:3px] transition-[transform,box-shadow] duration-200 ease-out hover:translate-y-[3px] hover:shadow-[0_5px_0_0_var(--color-brown)] active:translate-y-[8px] active:shadow-none px-8 py-4 text-[18px]/[27px]","children":"Back home"}],["$","$Lf",null,{"href":"/menu","className":"flex w-min items-center justify-center rounded-[100px] bg-brown px-7 py-4 font-chiron text-[20px]/[24px] font-bold whitespace-pre text-white transition-opacity duration-200 hover:opacity-90","children":"See the menu"}]]}]]}],null,["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$7"}}]]
+1:[["children",{"s":"_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@5","v":"$6","s":"$7"},"c":"$Q8"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Page not found - nookaa"}],["$","meta","1",{"name":"description","content":"Nookaa is a grab-and-go beverage brand. Explore coffees, matcha, teas and coolers, pick up your favourite at the counter and take it along."}],["$","meta","2",{"name":"application-name","content":"Nookaa"}],["$","meta","3",{"name":"robots","content":"noindex, follow"}],["$","meta","4",{"property":"og:title","content":"Nookaa - Grab & Go Beverages"}],["$","meta","5",{"property":"og:description","content":"Nookaa is a grab-and-go beverage brand. Explore coffees, matcha, teas and coolers, pick up your favourite at the counter and take it along."}],["$","meta","6",{"property":"og:image","content":"https://nookaa.in/opengraph-image?821a5ae13aee2497"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Nookaa — Grab. Sip. Go. Beverages & Beyond."}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Nookaa - Grab & Go Beverages"}],["$","meta","14",{"name":"twitter:description","content":"Nookaa is a grab-and-go beverage brand. Explore coffees, matcha, teas and coolers, pick up your favourite at the counter and take it along."}],["$","meta","15",{"name":"twitter:image","content":"https://nookaa.in/opengraph-image"}],["$","link","16",{"rel":"icon","href":"/brand/official-otter.png"}],["$","link","17",{"rel":"apple-touch-icon","href":"/brand/official-otter.png"}],["$","$L18","18",{}]]}]}],null]}],null]}],"p":"$@19","v":null,"s":"$7"}},"a":"$@1a","u":"$@1b","b":"Ite3iwS3jF-ntlWiJruzs"}
+12:null
+1b:true
+7:300
+7:C
+1a:0
+5:"$undefined"
+19:"$undefined"
+13:"$undefined"

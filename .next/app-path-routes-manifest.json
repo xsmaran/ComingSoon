@@ -1,0 +1,16 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/_global-error/page": "/_global-error",
+  "/robots.txt/route": "/robots.txt",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/opengraph-image/route": "/opengraph-image",
+  "/[enquiry]/page": "/[enquiry]",
+  "/about-us/page": "/about-us",
+  "/blog/articles/[slug]/page": "/blog/articles/[slug]",
+  "/blog/page": "/blog",
+  "/contact-us/page": "/contact-us",
+  "/menu/page": "/menu",
+  "/page": "/",
+  "/privacy-policy/page": "/privacy-policy",
+  "/terms/page": "/terms"
+}

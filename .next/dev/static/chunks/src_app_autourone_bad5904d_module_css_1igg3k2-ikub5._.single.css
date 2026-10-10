@@ -1,0 +1,29 @@
+/* [project]/src/app/autourone_bad5904d.module.css [app-client] (css) */
+@font-face {
+  font-family: autourOne;
+  src: url("../media/AutourOne_Regular-s.p.1hareovpu05pk.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: autourOne Fallback;
+  src: local(Arial);
+  ascent-override: 71.16%;
+  descent-override: 19.47%;
+  line-gap-override: 0.0%;
+  size-adjust: 137.92%;
+}
+
+.autourone_bad5904d-module__rEv-cW__className {
+  font-family: autourOne, autourOne Fallback;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.autourone_bad5904d-module__rEv-cW__variable {
+  --font-autour-one: "autourOne", "autourOne Fallback";
+}
+
+/*# sourceMappingURL=src_app_autourone_bad5904d_module_css_1igg3k2-ikub5._.single.css.map*/
