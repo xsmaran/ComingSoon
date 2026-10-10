@@ -1,8 +1,5 @@
-# Netlify automatically applies its current OpenNext adapter to this Next.js app.
 [build]
   command = "npm run build"
-  publish = ".next"
 
 [build.environment]
   NODE_VERSION = "24"
-  NETLIFY_NEXT_SKEW_PROTECTION = "true"
