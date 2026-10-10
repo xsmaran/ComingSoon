@@ -1,1 +1,0 @@
-globalThis.__RSC_MANIFEST=(globalThis.__RSC_MANIFEST||{});globalThis.__RSC_MANIFEST["/opengraph-image/route"]={"moduleLoading":{"prefix":"/_next/"},"ssrModuleMapping":{},"edgeSSRModuleMapping":{},"clientModules":{},"entryCSSFiles":{"C:\\Users\\User\\Desktop\\cmg\\ComingSoon\\src\\app\\opengraph-image\\route":[]},"rscModuleMapping":{},"edgeRscModuleMapping":{}};

@@ -11,3 +11,4 @@ data/
 # OS / editor cruft
 .DS_Store
 __MACOSX/
+.next/
