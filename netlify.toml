@@ -1,5 +1,14 @@
 [build]
-  command = "npm run build"
+  command = "npm install"
+  publish = "public"
+  functions = "netlify/functions"
 
-[build.environment]
-  NODE_VERSION = "24"
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/api/api/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/api"
+  to = "/.netlify/functions/api/api"
+  status = 200
